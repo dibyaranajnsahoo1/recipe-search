@@ -1,4 +1,4 @@
-## Delicieux | Recipe Finder App
+##  Recipe Finder App
 ### :orange_circle: Pages
 #### Homepage
 ![Homepage](https://user-images.githubusercontent.com/74035623/172040306-ee22612a-a3aa-4aaf-970a-364d2a7d1698.png)
